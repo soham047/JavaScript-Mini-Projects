@@ -14,7 +14,7 @@ Getting tired of just learning it, I made these projects for fun, and now I'm ex
 
 ### 1. **API-Based Project**
 - **Description**: An interactive project that fetches and displays data from a public API.
-- **Deployed**: [API-Based Project](https://soham047.github.io/JavaScript-Mini-Projects/API-based/)
+- **Deployed**: [Weather App](https://soham047.github.io/JavaScript-Mini-Projects/API-based/)
 - **Features**:
   - Fetches data dynamically from APIs.
   - Displays the data in a clean and interactive UI.
@@ -29,7 +29,7 @@ Getting tired of just learning it, I made these projects for fun, and now I'm ex
 
 ### 3. **To-Do List**
 - **Description**: A clean and functional to-do list app to manage daily tasks with local storage.
-- **Deployed**: [To-Do List](https://soham047.github.io/JavaScript-Mini-Projects/To-do-list/)
+- **Deployed**: [To Do List](https://soham047.github.io/JavaScript-Mini-Projects/To-do-list/)
 - **Features**:
   - Add, mark as complete, and delete tasks.
   - Persistent storage using local storage.
