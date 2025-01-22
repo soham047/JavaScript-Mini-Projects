@@ -1,0 +1,88 @@
+html, body {
+    background: #1c1c1c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1 {
+    color: #fff;
+    margin-bottom: 50px;
+}
+#container{
+    display: flex;
+    align-items: center;
+    background-color: #8e8b8b5d;
+    flex-direction: column;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow:0px 7px 20px #000;
+}
+
+#cityInput{
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    /* box-shadow:0px 1px 10px #000; */
+    margin-inline: 10px;
+}
+
+#cityInput:focus{
+    outline: none;
+    border: 3px solid #364bb5;
+}
+#srchBtn {
+    background-color: #364bb5;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    /* box-shadow:0px 1px 10px #000; */
+}
+
+.hidden{
+    display: none !important;
+}
+
+#otp{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+#city {
+    color: #fff;
+    background-color: #2a3a8ba1;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 0;
+}
+
+#temp {
+    color: #fff;
+    background-color: #2a3a8ba1;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 0;
+}
+#weather {
+    color: #fff;
+    background-color: #2a3a8ba1;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 0;
+}
+#Error {
+    color: #fff;
+    background-color: #8b2a2aa1;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 0;
+}

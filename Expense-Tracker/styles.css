@@ -1,0 +1,58 @@
+html, body{
+    background-color: rgb(21, 21, 21);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    flex-direction: column;
+
+}
+
+.btn{
+    padding: 10px 20px;
+    background-color: rgb(15, 15, 15);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s ease;
+    width: 100%;
+}
+
+.btn:hover{
+    background-color: rgba(113, 112, 112, 0.9);
+    color: #000;
+}
+
+.hidden{
+    display: none;
+}
+
+#expenseList{
+    margin-top: 0px !important;
+    margin: 20px;
+    list-style-type: none;
+    padding: 0;
+    width: 100%;
+    background-color:white ;
+    color: rgb(21, 21, 21);
+    padding: 20px;
+}
+
+#expenseList li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
