@@ -14,7 +14,7 @@ Getting tired of just learning it, I made these projects for fun, and now I'm ex
 
 ### 1. **API-Based Project**
 - **Description**: An interactive project that fetches and displays data from a public API.
-- **Deployed**: [Weather App](https://soham047.github.io/JavaScript-Mini-Projects/API-based/)
+- **Deployed**: [Weather App](https://soham047.github.io/JavaScript-Mini-Projects/API-based-Weather-App/)
 - **Features**:
   - Fetches data dynamically from APIs.
   - Displays the data in a clean and interactive UI.
@@ -24,7 +24,6 @@ Getting tired of just learning it, I made these projects for fun, and now I'm ex
 - **Deployed**: [Expense Tracker](https://soham047.github.io/JavaScript-Mini-Projects/Expense-Tracker/)
 - **Features**:
   - Add, edit, and delete expenses.
-  - Visualize expenses through charts (if applicable).
   - Stores data locally for persistence.
 
 ### 3. **To-Do List**
@@ -37,7 +36,7 @@ Getting tired of just learning it, I made these projects for fun, and now I'm ex
 
 ### 4. **Shopping Cart**
 - **Description**: A basic shopping cart app with product listing, price calculation, and cart management.
-- **Deployed**: [Shopping Cart](https://soham047.github.io/JavaScript-Mini-Projects/Shopping-Cart/)
+- **Deployed**: [Shopping Cart](https://soham047.github.io/JavaScript-Mini-Projects/shopping-cart/)
 - **Features**:
   - Add and remove items from the cart.
   - Displays total price dynamically.
