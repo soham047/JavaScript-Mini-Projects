@@ -1,4 +1,4 @@
-
+# JavaScript Mini Projects
 
 Welcome to my collection of JavaScript mini-projects! 🚀
 
